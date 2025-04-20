@@ -36,7 +36,6 @@ Perfect for learning how to build a dynamic web application using Django's power
 
 
 
-📂 Responsive design with Bootstrap (if you used it)
 
 
 
